@@ -1,4 +1,9 @@
-![Alt text](/relative/path/to/1.jpg?raw=true "Optional Title")
+1. Tampilan Login https://github.com/Maulidulbilhuda07/tes_artike/edit/main/5.jpg
+2. Tampilan Home https://github.com/Maulidulbilhuda07/tes_artike/edit/main/1.jpg
+3. Tampilan Data Artikel https://github.com/Maulidulbilhuda07/tes_artike/edit/main/3.jpg
+4. Tampilan Tambah Artikel https://github.com/Maulidulbilhuda07/tes_artike/edit/main/4.jpg
+5. Tampilan Update Artikel https://github.com/Maulidulbilhuda07/tes_artike/edit/main/2.jpg
+6. Tampilan Hapus Artikel https://github.com/Maulidulbilhuda07/tes_artike/edit/main/6.jpg
 
 
 ###################
